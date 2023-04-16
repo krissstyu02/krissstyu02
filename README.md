@@ -25,11 +25,16 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="25"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="35"/> </a>
 </div>
 
+## Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/kristinastasyuk))
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/krissstyu)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kristinkastasyuk)
+
+
+
 ## Stats
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krissstyu02&show_icons=true&locale=en&layout=compact" alt="krissstyu02" /></p></div>
-
-
 
 
 

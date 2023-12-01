@@ -1,4 +1,4 @@
-![_de5b9694-ce09-47a4-be89-3ed546b4504f](https://github.com/krissstyu02/krissstyu02/assets/94697684/1997ec02-01fe-4d8e-911a-871bda2c2d34)
+![OIG (2)](https://github.com/krissstyu02/krissstyu02/assets/94697684/217001c1-1083-4b13-b963-5db6dc46f459)
 
 ## Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krissstyu02&label=Profile%20views&color=0e75b6&style=flat" alt="krissstyu02" /> </p>

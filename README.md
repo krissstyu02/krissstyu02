@@ -1,11 +1,5 @@
 ![OIG (2)](https://github.com/krissstyu02/krissstyu02/assets/94697684/217001c1-1083-4b13-b963-5db6dc46f459)
 
-## Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krissstyu02&label=Profile%20views&color=0e75b6&style=flat" alt="krissstyu02" /> </p>
-
-
-
-
 ## My Languages and Tools  
 <div align="center">  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="35" /></a>  

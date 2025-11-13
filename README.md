@@ -26,13 +26,4 @@
 
 
 
-## Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krissstyu02)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krissstyu02)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krissstyu02)
-
-
-
-
 
